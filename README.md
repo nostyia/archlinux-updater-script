@@ -2,7 +2,7 @@
 
 [USAGE]
 
-python archilnux-updater.py option
+python archlinux-updater.py option
 
 [OPTIONS]
 
