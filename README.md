@@ -3,6 +3,8 @@
 [USAGE]<br />
 <br />
 python archlinux-updater.py option
+<br />
+example: python archlinux-updater.py pacman
 
 [OPTIONS]<br />
 
